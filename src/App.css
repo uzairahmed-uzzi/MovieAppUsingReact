@@ -1,0 +1,9 @@
+.appContainer{
+  margin: 0;
+  padding: 0;
+}
+.movies{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
